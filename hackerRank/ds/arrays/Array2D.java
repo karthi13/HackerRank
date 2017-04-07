@@ -2,7 +2,6 @@ package hackerRank.ds.arrays;
 
 import java.util.Scanner;
 
-import javax.swing.plaf.basic.BasicInternalFrameTitlePane.MaximizeAction;
 
 public class Array2D {
     public static void main(String[] args) {
@@ -34,7 +33,7 @@ public class Array2D {
             	}
             	//previous = cur;
             }
-            System.out.println();
+            //System.out.println();
         }
         System.out.println(previous);
         in.close();
