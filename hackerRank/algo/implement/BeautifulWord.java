@@ -1,4 +1,4 @@
-package hackerrank.weekOfCode;
+package hackerRank.algo.implement;
 
 import java.util.Scanner;
 

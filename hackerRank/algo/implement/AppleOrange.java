@@ -1,4 +1,4 @@
-package hackerrank.algo.implementation;
+package hackerRank.algo.implement;
 
 import java.util.Scanner;
 
