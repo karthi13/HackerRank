@@ -1,3 +1,9 @@
+/* Program to generate n random numbers 
+ * 
+ * This was extracted from http://algs4.cs.princeton.edu 
+ * Using it only for educational purpose
+ * 
+ * */
 package algos;
 
 import edu.princeton.cs.algs4.StdOut;
